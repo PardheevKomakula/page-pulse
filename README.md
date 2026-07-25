@@ -4,8 +4,8 @@ Page Pulse is a full-stack web application that audits any public URL and return
 
 **Tech stack:** Python + FastAPI (backend) · React + Vite + Tailwind CSS (frontend) · httpx · BeautifulSoup4
 
-**Live app:** `https://page-pulse-eta-six.vercel.app/`
-**Backend API:** `https://page-pulse-dalo.onrender.com/`
+**Live app:** `<https://page-pulse-eta-six.vercel.app/>`
+**Backend API:** `<https://page-pulse-dalo.onrender.com/>`
 
 ---
 
